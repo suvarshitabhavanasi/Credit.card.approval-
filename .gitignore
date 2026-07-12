@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Large datasets
+creditcard.csv
+data/raw/
+data/processed/
+
+# Optional: ignore trained models
+# models/*.joblib
